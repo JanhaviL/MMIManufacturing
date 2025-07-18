@@ -1,0 +1,12 @@
+name: MMITextiles
+title: MMITextiles
+username: mmitextiles
+account: mmitextiles
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15092398
+bundleId: 10634914
+url: https://mmitextiles.shinyapps.io/MMITextiles/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
